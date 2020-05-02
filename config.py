@@ -1,0 +1,6 @@
+#There is a configs for launching telegram bot and using weather API
+#Change them to yours to start using the bot
+TOKEN = 'YOUR_API_FROM_TELEGRAM_BOT'
+WEATHER_APP_ID = 'APP_ID_FROM_YAHOO_WEATHERS_API'
+WEATHER_CONSUMER_KEY = 'USER_KEY_FROM_YAHOO_WEATHER_API'
+WEATHER_CONSUMER_SECRET = 'SECRET_KET_FROM_YAHOO_WEATHER_API'
